@@ -1,0 +1,19 @@
+2017-09-07 23:08:50 Sistema iniciado
+2017-09-07 23:08:50 Salida MIDI detectada [0]:[Microsoft GS Wavetable Synth]
+2017-09-07 23:08:50 Salida MIDI detectada [1]:[LoopBe Internal MIDI]
+2017-09-07 23:08:50 Seleccionada:[LoopBe Internal MIDI]
+2017-09-07 23:08:50 Error:Unable to open com port/System Error.  Code: 2.
+El sistema no puede encontrar el archivo especificado
+2017-09-07 23:08:50 Error:SetupComm function failed/System Error.  Code: 6.
+Controlador no válido
+2017-09-07 23:08:50 Error:SetCommState function failed/System Error.  Code: 6.
+Controlador no válido
+2017-09-07 23:08:50 Error:SetCommTimeouts failed/System Error.  Code: 6.
+Controlador no válido
+2017-09-07 23:08:50 Conectado con [com2/31250]
+2017-09-07 23:08:50 Error:GetCommModemStatus function failed/System Error.  Code: 6.
+Controlador no válido
+2017-09-07 23:12:14 Error:PurgeComm function failed/System Error.  Code: 6.
+Controlador no válido
+2017-09-07 23:12:14 Desconectado...
+2017-09-07 23:12:14 Sistema Finalizado

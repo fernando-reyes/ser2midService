@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899/12/30 00:00:00.000.119,D:\desarrollo.pruebas\project1\ser2mid.dproj=D:\desarrollo.pruebas\project1\MicroController.dproj</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.474,D:\desarrollo.pruebas\project1\ser2mid.dproj=D:\desarrollo.pruebas\project1\ser2midService.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
