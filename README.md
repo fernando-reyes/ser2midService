@@ -2,7 +2,7 @@
 Servicio Windows - interfaz serial a midi
 
 Delphi XE7
-Prubas efectuadas utilizando LoopBe1.
+Pruebas efectuadas utilizando LoopBe1.
 
 DEPS: CPort.
 
